@@ -291,7 +291,7 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Avradeep Halder**
 
 - LinkedIn: [linkedin.com/in/avradeephalder](https://www.linkedin.com/in/avradeephalder/)
 - GitHub: [@avradeephalder](https://github.com/avradeephalder)
